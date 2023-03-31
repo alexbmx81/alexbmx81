@@ -1,0 +1,18 @@
+.banner { 
+background-image: url(../images/0c9506-miata_hp_crop_edit.jpeg);
+height: 60vh;
+background-size: cover;
+background-position: center;
+display: flex ;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+
+.banner h1, .banner p { 
+    color: rgb(253, 2, 2);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+
+
